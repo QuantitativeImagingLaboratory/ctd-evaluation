@@ -19,7 +19,7 @@ To evaluate under a four class scenario, we assume
 To reproduce the results from the **UHCTD: A Comprehensive Dataset for Camera Tampering Detection**
 The goundtruth and prediciton files are available [here](http://qil.uh.edu/datasets)
     
-**Requirements:** The code has been tested in a windows 10 system.
+**Requirements:** The code has been tested in a windows 10 system, and python 3.6.3
 - Sklearn
 - numpy
     
