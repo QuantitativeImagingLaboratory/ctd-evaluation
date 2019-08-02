@@ -32,7 +32,7 @@ cam = "cam_a"
 gt_cam_folder = os.path.join(gt_folder, cam)
 
 results_folder = "Results"
-scenario = "exp_3"
+scenario = "exp_1"
 
 scenario_folder = os.path.join(results_folder,scenario)
 this_results_folder = os.path.join(scenario_folder,cam)
