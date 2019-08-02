@@ -17,7 +17,7 @@ To evaluate under a four class scenario, we assume
 | -ve class  | covered, defocussed, moved | normal, defocussed, moved | normal, covered, moved | normal, defocussed, moved |
  
 To reproduce the results from the **UHCTD: A Comprehensive Dataset for Camera Tampering Detection**
-The goundtruth and prediciton files are available [here](google.com)
+The goundtruth and prediciton files are available [here](http://qil.uh.edu/datasets)
     
 **Requirements:** The code has been tested in a windows 10 system.
 - Sklearn
